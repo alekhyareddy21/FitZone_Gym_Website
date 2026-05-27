@@ -2,7 +2,7 @@
 
 A modern and premium gym website built using HTML, CSS, and JavaScript.
 
-This project was created as part of a web development internship project to showcase responsive design, animations, and modern UI concepts.
+This project was created as part of the **Hex Softwares Internship - Weekly Task 2** to showcase responsive web design, animations, and modern UI concepts.
 
 ---
 
@@ -41,32 +41,11 @@ gym-website/
 │
 ├── images/
 ├── screenshots/
-├── videos/
 │
 ├── index.html
 │
 └── README.md
 ```
-
----
-
-# 📸 Screenshots
-
-Add your project screenshots inside the `screenshots/` folder.
-
-Example:
-- Homepage
-- Services Section
-- Pricing Section
-- Contact Section
-
----
-
-# 🎥 Demo Video
-
-Add your demo video inside the `videos/` folder.
-
----
 
 # ⚡ How To Run
 
@@ -82,21 +61,12 @@ git clone YOUR_REPOSITORY_LINK
 
 ---
 
-# 🌐 Live Preview
+# 🏢 Internship Project
 
-You can deploy this project using:
-- GitHub Pages
-- Netlify
-- Vercel
+## Company Name
+HEX SOFTWARES
 
----
+## Task
+Weekly Task 2 - Gym Website
 
-# 👨‍💻 Author
-
-Your Name
-
----
-
-# 📌 Internship Project
-
-This project was developed for internship submission purposes to demonstrate frontend web development skills.
+This project was developed as part of the Hex Softwares Internship Program.
